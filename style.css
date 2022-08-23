@@ -5,17 +5,20 @@ body{
 }
 .banner{
     margin: 0px;
-    padding: 0px;
+    padding: 100px;
     width: auto;
-    height: 600px;
+    height: auto;
     background-image: url(images/donation7.jpg);
     background-repeat: no-repeat;
 }
 .banner-item{
     color: white;
-    font-size: 50px;
     text-align: center;
+    font-size: 50px;
 }
-.banner-header{
-    padding-top: 100px;
+.banner-paragraph{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    
 }
