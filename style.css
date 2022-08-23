@@ -192,6 +192,7 @@ body {
     background-color: rgb(194, 194, 194, .5);
     border-style: none;
     border-radius: 5px 0px 0px 5px;
+    padding-left: 15px;
 }
 
 .subscribe-btn {
