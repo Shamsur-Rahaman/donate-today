@@ -1,4 +1,6 @@
-
+html{
+    font-family: 'Roboto Condensed', sans-serif;
+}
 body{
     margin: 0px;
     padding: 0px;
@@ -10,15 +12,22 @@ body{
     height: auto;
     background-image: url(images/donation7.jpg);
     background-repeat: no-repeat;
+    text-align: center;
 }
 .banner-item{
     color: white;
-    text-align: center;
     font-size: 50px;
+    margin: 0px;
 }
 .banner-paragraph{
-    text-align: center;
     color: white;
-    font-size: 18px;
-    
+    font-size: 18px;  
+}
+.banner-btn{
+    text-decoration: none;
+    background-color: rgb(216, 44, 79);
+    color: white;
+    padding: 10px 20px;
+    font-weight: 700;
+    border-radius: 5px;
 }
