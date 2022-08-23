@@ -160,3 +160,45 @@ body {
 .my-innovation hr {
     width: 60%;
 }
+
+.our-updtes {
+    padding-top: 50px;
+    margin-bottom: 100px;
+}
+
+.our-updates-header {
+    font-size: 50px;
+    text-align: center;
+}
+
+.our-updates-paragraph {
+    text-align: center;
+    font-size: 18px;
+}
+
+.our-subscription {
+    margin-top: 40px;
+    text-align: center;
+    height: auto;
+    width: 40%;
+    background-color: rgb(250, 220, 184, .6);
+    padding: 70px;
+    margin-left: 300px;
+}
+
+.our-updates-input {
+    height: 40px;
+    width: 50%;
+    background-color: rgb(194, 194, 194, .5);
+    border-style: none;
+    border-radius: 5px 0px 0px 5px;
+}
+
+.subscribe-btn {
+    height: 41px;
+    width: 25%;
+    background-color: tomato;
+    color: white;
+    border-style: none;
+    border-radius: 0px 5px 0px 0px;
+}
