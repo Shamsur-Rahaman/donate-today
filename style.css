@@ -200,5 +200,27 @@ body {
     background-color: tomato;
     color: white;
     border-style: none;
-    border-radius: 0px 5px 0px 0px;
+    border-radius: 0px 5px 5px 0px;
+}
+
+footer {
+    background-color: black;
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+footer h1 {
+    color: tomato;
+    padding-top: 20px;
+    font-size: 35px;
+    font-family: 'Dancing Script', cursive;
+
+}
+
+footer p {
+    color: white;
+    padding-bottom: 20px;
 }
