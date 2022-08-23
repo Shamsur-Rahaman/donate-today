@@ -131,3 +131,32 @@ body {
 .donate-plan-area-3 {
     background-color: rgb(253, 235, 155, .5);
 }
+
+.my-innovation {
+    padding-top: 100px;
+}
+
+.innovation-header {
+    text-align: center;
+    font-size: 50px;
+    margin: 0px;
+}
+
+.innovation-paragraph {
+    text-align: center;
+    font-size: 18px;
+    margin: 15px;
+}
+
+.innovation-img {
+    text-align: center;
+}
+
+.child-feeding {
+    height: 250px;
+    width: 250px;
+}
+
+.my-innovation hr {
+    width: 60%;
+}
