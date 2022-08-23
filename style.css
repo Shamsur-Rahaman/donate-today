@@ -1,11 +1,13 @@
-html{
+html {
     font-family: 'Roboto Condensed', sans-serif;
 }
-body{
+
+body {
     margin: 0px;
     padding: 0px;
 }
-.banner{
+
+.banner {
     margin: 0px;
     padding: 100px;
     width: auto;
@@ -14,20 +16,73 @@ body{
     background-repeat: no-repeat;
     text-align: center;
 }
-.banner-item{
+
+.banner-header {
     color: white;
     font-size: 50px;
     margin: 0px;
 }
-.banner-paragraph{
+
+.banner-paragraph {
     color: white;
-    font-size: 18px;  
+    font-size: 18px;
 }
-.banner-btn{
+
+.banner-btn {
     text-decoration: none;
     background-color: rgb(216, 44, 79);
     color: white;
     padding: 10px 20px;
     font-weight: 700;
     border-radius: 5px;
+}
+
+.donate-today {
+    text-align: center;
+    margin: 0px;
+    padding: 100px;
+}
+
+.donate-header {
+    font-size: 50px;
+    margin: 0px;
+}
+
+.donate-paragraph {
+    font-size: 18px;
+    margin: 15px;
+}
+
+.donation-item {
+    display: flex;
+    margin-top: 30px;
+}
+
+.donation-amount {
+    height: 150px;
+    width: 150px;
+    background-color: rgb(233, 233, 233);
+    margin: 15px;
+    text-align: center;
+    font-size: 35px;
+}
+
+.donation-input {
+    margin-top: 30px;
+    width: 60%;
+    text-align: center;
+    border-right: white;
+    border-left: white;
+    border-top: white;
+    padding: 10px;
+}
+
+.donation-btn {
+    text-decoration: none;
+    background-color: rgb(235, 15, 59);
+    color: white;
+    padding: 10px 20px;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-top: 20px;
 }
