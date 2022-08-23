@@ -60,11 +60,15 @@ body {
 
 .donation-amount {
     height: 150px;
-    width: 150px;
+    width: 15%;
     background-color: rgb(233, 233, 233);
     margin: 15px;
     text-align: center;
     font-size: 35px;
+}
+
+.donation-amount-1 {
+    margin-left: 80px;
 }
 
 .donation-input {
@@ -87,7 +91,7 @@ body {
     margin-top: 20px;
 }
 
-.donation-plan {
+.donate-plan {
     margin: 0px;
 }
 
@@ -109,15 +113,15 @@ body {
 }
 
 .donate-plan-area {
-    width: 300px;
-    height: 300px;
+    width: 20%;
+    height: 170px;
     margin: 0px 20px 0px 20px;
-    padding: 50px 15px 50px 15px;
+    padding: 45px 15px 45px 15px;
 }
 
 .donate-plan-area-1 {
     background-color: rgb(179, 179, 236, .5);
-    margin-left: 100px;
+    margin-left: 175px;
 }
 
 .donate-plan-area-2 {
@@ -126,4 +130,10 @@ body {
 
 .donate-plan-area-3 {
     background-color: rgb(253, 235, 155, .5);
+}
+
+.donate-plan-header {
+    font-size: 20px;
+    text-align: left;
+    padding-top: 15px;
 }
